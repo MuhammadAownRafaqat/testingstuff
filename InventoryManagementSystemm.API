@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.6.11819.183 stable
+VisualStudioVersion = 18.6.11822.322 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystemm.API", "InventoryManagementSystemm.API.csproj", "{F1D2F22B-6DBF-90E8-582B-BC8B9576C317}"
 EndProject
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {49C143E7-A585-4FCF-B0CB-EE1B95E60873}
+		SolutionGuid = {356186BC-2010-4C5B-8A0A-039381F3A516}
 	EndGlobalSection
 EndGlobal
